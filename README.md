@@ -6,14 +6,18 @@
 
 <br />
 
+## What is it?
 
-*description*
+**Navigator** is ...
 
 ---
-## Install
 
-### Python Version
+## Table of Contents
+...
 
+---
+
+## Installation from sources
 
 ### Requirements
 
@@ -27,9 +31,11 @@ pip install --upgrade pip
 poetry install
 ```
 
-### Pre-commit
+### Development
 
-Install pre-commits with the following commands:
+#### Pre-commit
+
+In the development mode install pre-commits with the following commands:
 
 ```bash
 pre-commit
@@ -41,6 +47,7 @@ or
 pre-commit install
 ```
 ---
-## Project structure
 
-[Folder structure](docs/api/github_structure.md)
+## Documentation
+
+The official documentation is hosted on [GitBook]()
