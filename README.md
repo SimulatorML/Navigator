@@ -20,7 +20,7 @@
 
 <br />
 
-![GitHub language count](https://img.shields.io/github/languages/count/SimulatorML/Navigator) ![GitHub language count](https://img.shields.io/github/languages/count/SimulatorML/Navigator) [![Test](https://github.com/SimulatorML/Navigator/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/SimulatorML/Navigator/actions/workflows/python-app.yml)
+![GitHub language count](https://img.shields.io/github/languages/count/SimulatorML/Navigator) ![GitHub language count](https://img.shields.io/github/languages/count/SimulatorML/Navigator) [![Pre-install Test](https://github.com/SimulatorML/Navigator/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/SimulatorML/Navigator/actions/workflows/python-app.yml)
 
 
 *description*
